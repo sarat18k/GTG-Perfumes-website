@@ -1,5 +1,7 @@
 
 GTG – Premium Fragrances Landing Page
+![Uploading image.png…]()
+
 
 A modern, responsive eCommerce landing page for a premium fragrance brand. Built with semantic HTML, modular CSS, and interactive JavaScript components.
 
